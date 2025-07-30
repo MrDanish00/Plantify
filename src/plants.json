@@ -1,0 +1,78 @@
+{
+  "airPurifyingPlants": [
+    {
+      "name": "Snake Plant",
+      "description": "Filters air toxins and needs little care",
+      "price": 12.99,
+      "image_url": "https://images.squarespace-cdn.com/content/v1/54fbb611e4b0d7c1e151d22a/1610074066643-OP8HDJUWUH8T5MHN879K/Snake+Plant.jpg?format=1000w"
+    },
+    {
+      "name": "Spider Plant",
+      "description": "Great indoor air purifier, easy to grow",
+      "price": 9.99,
+      "image_url":"https://www.beardsanddaisies.co.uk/cdn/shop/products/Beards-Daises-27.9.220111copy.jpg?v=1664959425"
+    },
+    {
+      "name": "Peace Lily",
+      "description": "Removes air pollutants and adds greenery",
+      "price": 14.99,
+      "image_url": "https://cdn11.bigcommerce.com/s-fr32feerow/product_images/uploaded_images/peace-lily-01.jpg"
+    },
+    {
+      "name": "Aloe Vera",
+      "description": "Purifies air and has healing properties",
+      "price": 7.49,
+      "image_url":"https://www.ikea.com/ca/en/images/products/aloe-vera-potted-plant-aloe__1368841_pe957973_s5.jpg"
+    },
+    {
+      "name": "Areca Palm",
+      "description": "Adds tropical touch and cleans indoor air",
+      "price": 18.99,
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDlKGpWYxGlyeV73E9KySX_50pIaV4AJS7qA&s"
+    },
+    {
+      "name": "Rubber Plant",
+      "description": "Absorbs toxins and thrives indoors",
+      "price": 15.49,
+      "image_url":"https://www.provenwinners.com/sites/provenwinners.com/files/imagecache/low-resolution/ifa_upload/ficus_elastica_chroma_belize_rubber_plant_tag.jpg"
+    }
+  ],
+  "aromaticFragrantPlants": [
+    {
+      "name": "Jasmine",
+      "description": "Beautiful white flowers with sweet aroma",
+      "price": 10.99,
+      "image_url":"https://m.media-amazon.com/images/I/61ddATL-GeL._AC_SL1300_.jpg"
+    },
+    {
+      "name": "Lavender",
+      "description": "Calming fragrance, great for relaxation",
+      "price": 8.49,
+      "image_url":"https://awangarden.com.pk/wp-content/uploads/2021/11/245137767_6261304583942803_6919158363515987390_n-1.jpg"
+    },
+    {
+      "name": "Rosemary",
+      "description": "Aromatic herb with fresh pine-like scent",
+      "price": 6.99,
+      "image_url":"https://celebratedherb.com/wp-content/uploads/2024/02/IMG_2099.jpg"
+    },
+    {
+      "name": "Gardenia",
+      "description": "Elegant blooms with rich fragrance",
+      "price": 13.99,
+      "image_url":"https://7dot.pk/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-13-at-12.35.38-PM.jpeg"
+    },
+    {
+      "name": "Mint Plant",
+      "description": "Fresh, cooling aroma and culinary use",
+      "price": 5.49,
+      "image_url":"https://decormatters-blog-uploads.s3.amazonaws.com/eleanor_chen_Iyt_U_Vi_Sv3_GQ_unsplash_b7056964fc.jpg"
+    },
+    {
+      "name": "Lemon Balm",
+      "description": "Citrus-scented leaves, soothing aroma",
+      "price": 7.99,
+      "image_url":"https://media.greg.app/cGxhbnQtZGItcGhvdG9zL2xlbW9uX2JhbG0uanBn?format=pjpeg&optimize=high&auto=webp&precrop=1000:1000,smart&fit=crop&width=1000&height=1000"
+    }
+  ]
+}
