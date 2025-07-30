@@ -25,7 +25,7 @@ function Cart({ count, empty, setEmpty, cartItems, setCartItems }) {
         <button onClick={() => removeItem(item.name)} className="remove-btn">
           X
         </button>
-        <img className="order-image" src={item.image_url} alt={item.name} />
+        <img className="order-image" src={`${import.meta.env.BASE_URL}${item.image_url}`} alt={item.name} />
         <h3>{item.name}</h3>
         <p>${item.price}</p>
         <div className="select-quantity">

@@ -21,7 +21,7 @@ function App() {
     <>
       {!started ? (
         <div className="image-container">
-          <img className="image" src="/Garden.jpg" alt="Garden" /> {/* Placeholder image */}
+          <img className="image" src={`${import.meta.env.BASE_URL}Garden.jpg`} alt="Garden" /> {/* Placeholder image */}
           <h1>Welcome To Plantify!</h1>
           <p>
             At Plantify, we believe that every space deserves a touch of nature.

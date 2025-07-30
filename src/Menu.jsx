@@ -26,7 +26,7 @@ function Menu({ cartItems, setCartItems}) {
                     {plantsData.airPurifyingPlants.map((plant, index) => (
                         <div className="menu-div" key={index}>
                             <h3>{plant.name}</h3>
-                            <img className="plant-image" src={plant.image_url} alt="Plant Image" />
+                            <img className="plant-image" src={`${import.meta.env.BASE_URL}${plant.image_url}`} alt="Plant Image" />
                             <p>{plant.description}</p>
                             <p>Price: ${plant.price}</p><br />
                             {cartItems.some((item) => item.name === plant.name) ? (
@@ -48,7 +48,7 @@ function Menu({ cartItems, setCartItems}) {
                     {plantsData.aromaticFragrantPlants.map((plant, index) => (
                         <div className="menu-div" key={index}>
                             <h3>{plant.name}</h3>
-                            <img className="plant-image" src={plant.image_url} alt={plant.name} />
+                            <img className="plant-image" src={`${import.meta.env.BASE_URL}${plant.image_url}`} alt={plant.name} />
                             <p>{plant.description}</p>
                             <p>Price: ${plant.price}</p><br />
                             {cartItems.some((item) => item.name === plant.name) ? (
@@ -68,7 +68,7 @@ function Menu({ cartItems, setCartItems}) {
                     {plantsData.floweringPlants.map((plant, index) => (
                         <div className="menu-div" key={index}>
                             <h3>{plant.name}</h3>
-                            <img className="plant-image" src={plant.image_url} alt={plant.name} />
+                            <img className="plant-image" src={`${import.meta.env.BASE_URL}${plant.image_url}`} alt={plant.name} />
                             <p>{plant.description}</p>
                             <p>Price: ${plant.price}</p><br />
                             {cartItems.some((item) => item.name === plant.name) ? (
