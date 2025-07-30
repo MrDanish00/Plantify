@@ -4,37 +4,37 @@
       "name": "Snake Plant",
       "description": "Filters air toxins and needs little care",
       "price": 12.99,
-      "image_url": "/Snake.jpg"
+      "image_url": "images/Snake.jpg"
     },
     {
       "name": "Spider Plant",
       "description": "Great indoor air purifier, easy to grow",
       "price": 9.99,
-      "image_url":"/Spider.jpg"
+      "image_url":"images/Spider.jpg"
     },
     {
       "name": "Peace Lily",
       "description": "Removes air pollutants and adds greenery",
       "price": 14.99,
-      "image_url": "/PeaceLily.jpg"
+      "image_url": "images/PeaceLily.jpg"
     },
     {
       "name": "Aloe Vera",
       "description": "Purifies air and has healing properties",
       "price": 7.49,
-      "image_url":"/AloeVera.jpg"
+      "image_url":"images/AloeVera.jpg"
     },
     {
       "name": "Areca Palm",
       "description": "Adds tropical touch and cleans indoor air",
       "price": 18.99,
-      "image_url": "/ArecaPalm.jpg"
+      "image_url": "images/ArecaPalm.jpg"
     },
     {
       "name": "Rubber Plant",
       "description": "Absorbs toxins and thrives indoors",
       "price": 15.49,
-      "image_url":"/Rubber.jpg"
+      "image_url":"images/Rubber.jpg"
     }
   ],
   "aromaticFragrantPlants": [
@@ -42,37 +42,37 @@
       "name": "Jasmine",
       "description": "Beautiful white flowers with sweet aroma",
       "price": 10.99,
-      "image_url":"/Jasmine.jpg"
+      "image_url":"images/Jasmine.jpg"
     },
     {
       "name": "Lavender",
       "description": "Calming fragrance, great for relaxation",
       "price": 8.49,
-      "image_url":"/Lavender.jpg"
+      "image_url":"images/Lavender.jpg"
     },
     {
       "name": "Rosemary",
       "description": "Aromatic herb with fresh pine-like scent",
       "price": 6.99,
-      "image_url":"/Rosemary.jpg"
+      "image_url":"images/Rosemary.jpg"
     },
     {
       "name": "Gardenia",
       "description": "Elegant blooms with rich fragrance",
       "price": 13.99,
-      "image_url":"/Gardenia.jpg"
+      "image_url":"images/Gardenia.jpg"
     },
     {
       "name": "Mint Plant",
       "description": "Fresh, cooling aroma and culinary use",
       "price": 5.49,
-      "image_url":"/Mint.jpg"
+      "image_url":"images/Mint.jpg"
     },
     {
       "name": "Lemon Balm",
       "description": "Citrus-scented leaves, soothing aroma",
       "price": 7.99,
-      "image_url":"/LemonBalm.jpg"
+      "image_url":"images/LemonBalm.jpg"
     }
   ],
   "floweringPlants": [
@@ -80,37 +80,37 @@
     "name": "Rose",
     "description": "Classic flowering plant with beautiful fragrant blooms",
     "price": 9.99,
-    "image_url": "/Rose.jpg"
+    "image_url": "images/Rose.jpg"
   },
   {
     "name": "Hibiscus",
     "description": "Bright tropical flowers that add vibrant color",
     "price": 11.49,
-    "image_url": "/Hibiscus.jpg"
+    "image_url": "images/Hibiscus.jpg"
   },
   {
     "name": "Bougainvillea",
     "description": "Colorful flowering plant ideal for gardens and walls",
     "price": 14.99,
-    "image_url": "/Bougainvillea.jpg"
+    "image_url": "images/Bougainvillea.jpg"
   },
   {
     "name": "Sunflower",
     "description": "Large, bright flowers that follow the sun",
     "price": 7.49,
-    "image_url": "/Sunflower.jpg"
+    "image_url": "images/Sunflower.jpg"
   },
   {
     "name": "Marigold",
     "description": "Vibrant yellow-orange flowers, easy to grow",
     "price": 5.99,
-    "image_url": "/Marigold.jpg"
+    "image_url": "images/Marigold.jpg"
   },
   {
     "name": "Daisy",
     "description": "Simple, cheerful white and yellow flowers",
     "price": 6.49,
-    "image_url": "/Daisy.jpg"
+    "image_url": "images/Daisy.jpg"
   }
 ]
 
